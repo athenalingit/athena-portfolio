@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Led development using React + TypeScript + Tailwind. Collaborated across design/engineering to ship a production site.",
     tags: ["React", "TypeScript", "Tailwind"],
-    link: "",
+    link: "https://ucsdhauntedmaze.vercel.app/",
   },
   {
     title: "2D Pixel RPG",
@@ -21,5 +21,12 @@ export const projects = [
       "Designed gameplay systems and progression; presented at a university showcase.",
     tags: ["Game Dev", "Systems"],
     link: "",
+  },
+  {
+    title: "Mushroom Classifier",
+    description:
+      "Used CLIP to classify mushrooms by extracting image and text embeddings. Explored clustering patterns and performed analysis tests. ",
+    tags: ["BLIP", "CLIP", "clustering", "PCA", "kMeans"],
+    link: "https://github.com/mwsong/COGS118B_FA25_Project/",
   },
 ];

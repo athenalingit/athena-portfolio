@@ -13,7 +13,7 @@ export default function Page() {
       <section id="about" className="mx-auto w-full max-w-6xl px-6 py-14">
         <h2 className="text-2xl font-semibold">About</h2>
         <p className="mt-3 max-w-3xl text-sm text-white/70">
-          UC San Diego student specializing in Machine Learning & Neural Computation.
+          UC San Diego Cognitive Science student specializing in Machine Learning & Neural Computation.
           Experience fine-tuning transformer models, Dockerized training workflows, and shipping web apps.
         </p>
       </section>
@@ -22,8 +22,8 @@ export default function Page() {
         <h2 className="text-2xl font-semibold">Contact</h2>
         <div className="mt-4 flex flex-col gap-2 text-sm text-white/70">
           <a className="hover:text-white" href="mailto:atl009@ucsd.edu">atl009@ucsd.edu</a>
-          <a className="hover:text-white" href="https://www.linkedin.com/" target="_blank" rel="noreferrer">LinkedIn</a>
-          <a className="hover:text-white" href="https://github.com/" target="_blank" rel="noreferrer">GitHub</a>
+          <a className="hover:text-white" href="https://www.linkedin.com/athenalin7" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a className="hover:text-white" href="https://github.com/athenalingit" target="_blank" rel="noreferrer">GitHub</a>
         </div>
       </section>
 
