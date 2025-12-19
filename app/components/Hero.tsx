@@ -3,8 +3,7 @@ export default function Hero() {
     <section className="mx-auto w-full max-w-6xl px-6 pt-20 pb-12">
       <h1 className="text-4xl font-semibold tracking-tight text-white">Athena Lin</h1>
       <p className="mt-4 max-w-2xl text-white/70">
-        Applied Machine Learning Engineer (new grad). I fine-tune LLMs (LoRA, PyTorch),
-        build data pipelines, and ship production software.
+        Applied Machine Learning Engineer (new grad) at UC San Diego
       </p>
 
       <div className="mt-8 flex flex-wrap gap-3 text-sm">
